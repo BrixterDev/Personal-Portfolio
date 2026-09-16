@@ -345,7 +345,7 @@ export default function Page() {
       <footer className="site-footer shell">
         <div><span className="footer-mark">AB</span><span>© 2026 Aeron Brixter Aure</span></div>
         <div className="footer-links">
-          <a href="mailto:aureaeronbrixter@gmail.com"><Mail size={14} /> Email</a>
+          <a href="mailto:aureaeronbrixter@gmail.com"><Mail size={14} /> aureaeronbrixter@gmail.com</a>
           <a href="https://github.com/BrixterDev" target="_blank" rel="noreferrer"><ArrowUpRight size={14} /> GitHub</a>
           <a href="https://www.linkedin.com/in/aeron-brixter-aure-ab73823a8/" target="_blank" rel="noreferrer"><ArrowUpRight size={14} /> LinkedIn</a>
           <span><MapPin size={14} /> Manila, PH</span>
