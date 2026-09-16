@@ -343,7 +343,7 @@ export default function Page() {
       </section>
 
       <footer className="site-footer shell">
-        <div><span className="footer-mark">AB</span><span>© 2025 Aeron Brixter Aure</span></div>
+        <div><span className="footer-mark">AB</span><span>© 2026 Aeron Brixter Aure</span></div>
         <div className="footer-links">
           <a href="mailto:aureaeronbrixter@gmail.com"><Mail size={14} /> Email</a>
           <a href="https://github.com/BrixterDev" target="_blank" rel="noreferrer"><ArrowUpRight size={14} /> GitHub</a>
