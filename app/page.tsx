@@ -244,7 +244,7 @@ export default function Page() {
         <div className="hero-mark">
           <div className="profile-frame">
             <Image
-              src="/Profile.png"
+              src="/profile.jpg"
               alt="Portrait of Aeron Brixter Aure"
               width={305}
               height={305}
