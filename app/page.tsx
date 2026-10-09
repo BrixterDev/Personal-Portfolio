@@ -92,8 +92,8 @@ const skills = [
     ),
   },
   {
-    name: 'Animation / Motion',
-    category: 'Design',
+    name: 'Full Stack Development',
+    category: 'Development',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="9" />
