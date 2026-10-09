@@ -5,3 +5,5 @@ I am a BSIT Graduate from Cavite State University - Main Campus
 GPA : 1.77 
 
 Web Developer, App Developer, and Web Designer.
+
+Built this website using React, Next.js, and Tailwind.
